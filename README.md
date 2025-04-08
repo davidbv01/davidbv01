@@ -77,7 +77,3 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
 &emsp;
-
-------
-Credit: [David](https://github.com/davidbv01)  
-Last Edited on: 07/04/2025
